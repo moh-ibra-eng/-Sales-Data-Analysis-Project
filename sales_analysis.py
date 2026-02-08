@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # 1️⃣ Load Data
 # ===============================
 df = pd.read_csv(
-    r"C:\Users\DELL\Desktop\py4e\files\csv_file\Data Analysis projects\Sample - Superstore.csv.zip",
+    r"C:\Users\DELL\Desktop\py4e\files\csv_file\Data Analysis projects\Sample - Superstore.csv\Sample - Superstore.csv",
     encoding="latin1"
 )
 
